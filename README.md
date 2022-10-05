@@ -10,3 +10,4 @@ keep notes of my working out, and stuff
 |2022.9.30|111|VC,haircut|
 |2022.10.1|128||
 |2022.10.2|133||
+|2022.10.4|130||
